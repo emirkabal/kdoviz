@@ -1,0 +1,30 @@
+{
+  "name": "kdoviz",
+  "version": "1.0.0",
+  "description": "kdoviz doviz.com sitesine erişim sağlayıp HTML'i ayrıştırır ve size bir çıktı verir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emirkabal/kdoviz.git"
+  },
+  "keywords": [
+    "doviz",
+    "kur",
+    "altın",
+    "kripto",
+    "para",
+    "borsa"
+  ],
+  "author": "Emir Kabal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emirkabal/kdoviz/issues"
+  },
+  "homepage": "https://github.com/emirkabal/kdoviz#readme",
+  "dependencies": {
+    "tabletojson": "^2.0.4"
+  }
+}
